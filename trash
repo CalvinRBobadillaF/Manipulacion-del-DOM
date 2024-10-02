@@ -1,0 +1,8 @@
+<div class="task-section" id="task-area">
+                <p class="main-task">just testing parragrahp</p>
+                
+                <div class="other-functions">
+                    <p>delete</p>
+                    <p>edit</p>
+                </div>
+            </div>
